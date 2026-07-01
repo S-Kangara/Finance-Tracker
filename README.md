@@ -1,2 +1,2 @@
 # Finance-Tracker
-Personal finance tracker CLI app built with Python OOP 
+A personal finance tracker CLI app with Python OOP that allows users to record income, expenses, and generate a monthly financial summary
